@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "paodebatata.play.hosting",
+    "ip": "62.141.62.23",
     "port": 29852,
     "version": "1.20.1",
     "try-creative": false
