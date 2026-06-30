@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.23",
-    "port": 31504,
-    "version": "1.20.1",
+    "ip": "potatobread-d8r0.aternos.me",
+    "port": 36849,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
